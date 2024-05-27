@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop version](./Desktop-results-summary-component.png)
-![Mobile version](./Mobile-results-summary-component.png)
+![Desktop version](./images/Desktop-results-summary-component.png)
+![Mobile version](./images/Mobile-results-summary-component.png)
 
 ## My process
 
