@@ -21,9 +21,8 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5
 - Tailwind CSS
-- Flexbox
 - Mobile-first workflow
 
 ### Useful resources
