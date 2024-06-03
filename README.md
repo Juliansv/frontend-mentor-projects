@@ -1,1 +1,1 @@
-## Site to showcase frontend mentor projects
+## Site to showcase frontend mentor projects.
